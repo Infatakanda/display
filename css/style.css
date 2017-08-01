@@ -1,0 +1,110 @@
+.top-header{
+    background: url(../images/header.jpg);
+    background-repeat: no-repeat;
+    height: 60vh;
+    background-size: cover;
+}
+
+.navbar-toggle {
+    position: relative;
+    float: right;
+    padding: 9px 10px;
+    margin-top: 8px;
+    margin-right: 15px;
+    margin-bottom: 8px;
+    background-color: rgba(185, 28, 28, 0.47);
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;}
+
+.navbar-nav>li>a {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin: 0;
+    font-size: 30px;
+    margin-top: 42px;
+    text-transform: uppercase;
+    /* background: red; */
+    background: #445ED2;
+    color: #fff;
+}
+
+.last-header{
+    width: 80%%;
+    margin: 0 auto;
+}
+.last-header h1{
+        position: absolute;
+    top: 100%;
+    left: 35%;
+    transform: translate(-50% -50%);
+    margin-top: 80px;
+    
+}
+
+.btn-custom{
+           position: absolute;
+    /* top: 267%; */
+    margin-top: 12%;
+    left: 44%;
+    background: #445ED2;
+    transform: translate(-50% 50%);
+    text-transform: uppercase;
+}
+
+
+
+.content1{
+      margin: 0 auto;
+}
+/*.content1:after{
+    content: "";
+    height: 100px;
+    width: 100%;
+    background: red;
+}
+*/
+.content1 h5{
+    margin-top: 30px;
+  
+}
+
+.insorance{ background: #F7FAFB;
+height: 50vh;}
+.help{}
+.help h2{}
+
+.blogger{ margin: 0 auto;}
+.blogger img{
+    margin: 0 auto;
+}
+.blogger h4{}
+.blogger p{}
+
+
+.btn-danger{
+        /* left: 50%; */
+    position: absolute;
+    /* top: 50%; */
+    margin-top: 17%;
+    right: 45%;
+}
+
+.fast-content{
+  
+}
+.fast{}
+.fast h2{}
+
+
+.work{  position: absolute;
+    text-outline: 50%;
+    left: 50%;
+    transform: translate(-50% -50%)}
+.work img{}
+
+
+
+
+
+
